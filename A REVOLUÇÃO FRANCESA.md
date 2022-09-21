@@ -1,6 +1,6 @@
 ---
 created: 2022-09-21T07:54:14-03:00
-modified: 2022-09-21T08:23:13-03:00
+modified: 2022-09-21T08:28:35-03:00
 ---
 
 # A REVOLUÇÃO FRANCESA
@@ -10,6 +10,7 @@ modified: 2022-09-21T08:23:13-03:00
 # ALUNO: Sil Farney
 # TURMA: 8°B
 # TURNO: Amanhã 
+# DATA:21/09/22
 ---
 
 # A REVOLUÇÃO FRANCESA
