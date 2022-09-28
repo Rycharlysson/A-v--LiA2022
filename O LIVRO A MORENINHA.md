@@ -1,21 +1,28 @@
 ---
 created: 2022-09-28T08:28:25-03:00
-modified: 2022-09-28T09:19:14-03:00
+modified: 2022-09-28T10:02:25-03:00
 ---
 
 # O LIVRO A MORENINHA
 
 # ESCOLA: GILDO VERÍSSIMO
+---
 ## DISCIPLINA: LÍNGUA PORTUGUESA
+---
 ## PROFESSOR: MARCOS
+---
 ## ALUNO: SIL FARNEY
+---
 ## TURNO: MANHÃ
+---
 ## TURMA: 8°B
 ---
 ---
 
 # RESUMO
 ---
+
+
 
 
 A Moreninha é um romance de Joaquim Manuel de Macedo, publicada em 1844. 
@@ -202,3 +209,14 @@ Esperamos ter ajudado com essa análise do livro A Moreninha de Joaquim Manuel d
 ---
 ---
 ![Image](./40555d7fa41878a82333c62d06a3b3fd.jpg)
+---
+---
+
+# AUTOR:JOAQUIM MANUEL DE MACEDO
+---
+---
+
+
+![Image](./44eee5de1679c2ece02cd6611a657c75.jpg)
+
+---
